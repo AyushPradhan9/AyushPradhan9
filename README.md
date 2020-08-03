@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayush - aka [git-ayush-pradhan][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm an undergraduate student discovering my virtual world!
 - 🔭 I’m currently working on a [Desktop chatting application](https://github.com/git-ayush-pradhan/GroupChatApp)!
 - 🌱 I’m currently learning about AWS
 - 👯 I’m looking to collaborate on more exceptional projects!
