@@ -1,10 +1,10 @@
 ### Hi there, I'm Ayush - aka [git-ayush-pradhan][website] 👋
 
-## I'm an undergraduate student discovering my virtual world!
-- 🔭 I’m currently working on a [Desktop chatting application](https://github.com/git-ayush-pradhan/GroupChatApp)!
+## I'm an undergraduate student patching my virtual world!
+- 🔭 I’m currently working on a [DesktopChatApp](https://github.com/git-ayush-pradhan/GroupChatApp)!
 - 🌱 I’m currently learning about AWS
 - 👯 I’m looking to collaborate on more exceptional projects!
-- 🤔 I’m looking for help with web crawling for [price comaparer](https://github.com/git-ayush-pradhan/PriceComparator)
+- 🤔 I’m looking for help with web crawling for [priceComaparer](https://github.com/git-ayush-pradhan/PriceComparator)
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing fps games and am Omen main in Valorant
 
