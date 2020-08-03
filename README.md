@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate in more exceptional projects!
 - 🤔 I’m looking for help with Web Crawling for [priceComaparer](https://github.com/git-ayush-pradhan/PriceComparator)
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing fps games and am Omen main in Valorant
+- ⚡ Fun fact: I love playing FPS games and am Omen main in Valorant
 
 ### Connect with me:
 
