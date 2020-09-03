@@ -2,7 +2,7 @@
 
 ## I'm an undergraduate student, busy patching my virtual world!
 - 🔭 I’m currently working on a [DesktopChatApp](https://github.com/git-ayush-pradhan/GroupChatApp)
-- 🌱 I’m currently learning about AWS!
+- 🌱 I’m currently learning about Socket Programming!
 - 👯 I’m looking to collaborate in more exceptional projects!
 - 🤔 I’m looking for help with Web Crawling for [priceComaparer](https://github.com/git-ayush-pradhan/PriceComparator)
 - 🥅 2020 Goals: Contribute more to Open Source projects
