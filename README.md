@@ -40,6 +40,6 @@
 
 <img align="left" alt="git-ayush-pradhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=git-ayush-pradhan&show_icons=true&hide_border=true" />
 
-[website]: https://git-ayush-pradhan.github.io
+[website]: https://ayushpradhan9.github.io
 [instagram]: https://instagram.com/_ayush.pradhan_
 [linkedin]: https://www.linkedin.com/in/ayushpradhan/
