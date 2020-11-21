@@ -1,10 +1,9 @@
 ### Hi there, I'm [Ayush Pradhan][website] 👋
 
 ## I'm an undergraduate student, busy patching my virtual world!
-- 🔭 I’m currently working on a [reddiTalk](https://github.com/git-ayush-pradhan/reddiTalk)
+- 🔭 I’m currently working on a [reddiTalk](https://github.com/ayushpradhan9/reddiTalk)
 - 🌱 I’m currently learning about Socket Programming!
 - 👯 I’m looking to collaborate in more exceptional projects!
-- 🤔 I’m looking for help with Web Crawling for [priceComaparer](https://github.com/git-ayush-pradhan/PriceComparator)
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing FPS games and am Omen main in Valorant
 
@@ -38,7 +37,7 @@
 
 <br />
 
-<img align="left" alt="git-ayush-pradhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=git-ayush-pradhan&show_icons=true&hide_border=true" />
+<img align="left" alt="ayushpradhan9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpradhan9&show_icons=true&hide_border=true" />
 
 [website]: https://ayushpradhan9.github.io
 [instagram]: https://instagram.com/_ayush.pradhan_
