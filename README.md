@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [reddiTalk](https://github.com/ayushpradhan9/reddiTalk)
 - 🌱 I’m currently learning about Socket Programming!
 - 👯 I’m looking to collaborate in more exceptional projects!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing FPS games and am Omen main in Valorant
 
 ### Connect with me:
