@@ -1,8 +1,7 @@
 ### Hi there, I'm [Ayush Pradhan][website] 👋
 
 ## I'm an undergraduate student, busy patching my virtual world!
-- 🔭 I’m currently working on a [reddiTalk](https://github.com/ayushpradhan9/reddiTalk)
-- 🌱 I’m currently learning about Socket Programming!
+- 🌱 I’m currently learning about React!
 - 👯 I’m looking to collaborate in more exceptional projects!
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing FPS games and am Omen main in Valorant
@@ -36,8 +35,10 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
+<br />
 
-<img align="left" alt="ayushpradhan9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpradhan9&show_icons=true&hide_border=true" />
+![Ayush Pradhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushpradhan9&show_icons=true&theme=cobalt)
 
 [website]: https://ayushpradhan9.github.io
 [instagram]: https://instagram.com/_ayush.pradhan_
