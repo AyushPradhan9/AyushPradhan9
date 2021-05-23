@@ -38,7 +38,7 @@
 <br />
 <br />
 
-![Ayush Pradhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushpradhan9&show_icons=true&theme=cobalt)
+![Ayush Pradhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushpradhan9&show_icons=true&theme=tokyonight)
 
 [website]: https://ayushpradhan9.github.io
 [instagram]: https://instagram.com/_ayush.pradhan_
