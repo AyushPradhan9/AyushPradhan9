@@ -3,8 +3,7 @@
 ## I'm an undergraduate student, busy patching my virtual world!
 - 🌱 I’m currently learning about React!
 - 👯 I’m looking to collaborate in more exceptional projects!
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing FPS games and am Omen main in Valorant
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
