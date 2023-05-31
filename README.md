@@ -1,10 +1,5 @@
 ### Hi there, I'm [Ayush Pradhan][website] 👋
 
-## I'm an undergraduate student, busy patching my virtual world!
-- 🌱 I’m currently learning about React!
-- 👯 I’m looking to collaborate in more exceptional projects!
-- 🥅 2022 Goals: Contribute more to Open Source projects
-
 ### Connect with me:
 
 [<img align="left" alt="github.io" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
